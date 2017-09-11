@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "club_project",
+        "password": "distribuidos",
+        "database": "Sales",
+        "host": "club.c0u5tomeuuqw.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "club_project",
+        "password": "distribuidos",
+        "database": "Sales",
+        "host": "club.c0u5tomeuuqw.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "club_project",
+        "password": "distribuidos",
+        "database": "Sales",
+        "host": "club.c0u5tomeuuqw.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    }
+}
